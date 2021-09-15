@@ -14,30 +14,46 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [LSP](https://github.com/krassowski/jupyterlab-lsp) - brings coding assistance features (code navigation, hover suggestions, linters, autocompletion, etc.) to JupyterLab
 - [Dash](https://github.com/plotly/jupyter-dash) - Extension for the Interactive development of Dash apps in JupyterLab.
 - [Vim](https://github.com/jwkvam/jupyterlab-vim) - Notebook cell vim bindings.
-- [Elyra](https://github.com/elyra-ai/elyra) - Create and run notebook pipelines locally or remotely
+- [Elyra](https://github.com/elyra-ai/elyra) - Create and run notebook
+q pipelines locally or remotely
 
-# User Access
-- [JupyterHub](https://github.com/jupyterhub/jupyterlab-hub) - This adds a "Hub" menu to JupyterLab that allows a user to log out of JupyterHub or access their [JupyterHub](https://github.com/jupyterhub/jupyterhub) control panel.
+## User Access
 
 # Version Control
 - [Git](https://github.com/jupyterlab/jupyterlab-git) - Git extension
 - [GitHub](https://github.com/jupyterlab/jupyterlab-github) - GitHub extension
-- [neptune-notebooks](https://docs.neptune.ml/notebooks/introduction.html) - An extension that lets you version, diff, and share your JupyterLab and Jupyter notebooks on [neptune.ml](https://neptune.ml/). 
+- [neptune-notebooks](https://docs.neptune.ml/notebooks/introduction.html) - An
+  extension that lets you version, diff, and share your JupyterLab and Jupyter
+  notebooks on [neptune.ml](https://neptune.ml/). 
 
-# Viewers/Renderers
-- [Bokeh](https://github.com/bokeh/jupyterlab_bokeh) - An extension rendering Bokeh content
-- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive widgets for the Jupyter Notebook
-- [fasta,geojson,katex,plotly,vega2](https://github.com/jupyterlab/jupyter-renderers) - Multiple package repo that consists of generic renderers for common file types and mime types as well as renderer extensions for JupyterLab.
-- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - A JupyterLab MIME renderer extension to view CSV and JSON data in [Voyager 2](https://github.com/vega/voyager#voyager-2).
-- [Dash](https://github.com/plotly/jupyterlab-dash) - An extension for rendering [Plotly Dash](https://plot.ly/products/dash/) apps as a separate window.
-- [ipysheet](https://github.com/QuantStack/ipysheet) - Interactive spreadsheet in JupyterLab.
+## Viewers/Renderers
+- [Bokeh](https://github.com/bokeh/jupyterlab_bokeh) - An extension rendering
+  Bokeh content
+- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive
+  widgets for the Jupyter Notebook
+- [fasta,geojson,katex,plotly,vega2](https://github.com/jupyterlab/jupyter-renderers)
+  - Multiple package repo that consists of generic renderers for common file
+  types and mime types as well as renderer extensions for JupyterLab.
+- [voyager](https://github.com/altair-viz/jupyterlab_voyager) - A JupyterLab
+  MIME renderer extension to view CSV and JSON data in [Voyager
+  2](https://github.com/vega/voyager#voyager-2).
+- [Dash](https://github.com/plotly/jupyterlab-dash) - An extension for
+  rendering [Plotly Dash](https://plot.ly/products/dash/) apps as a separate
+  window.
+- [ipysheet](https://github.com/QuantStack/ipysheet) - Interactive spreadsheet
+  in JupyterLab.
 
-# Themes
-- [Light](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-light-extension) - Default light-colored theme
-- [Dark](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-dark-extension) - Default dark-colored theme
-- [Material Darker](https://github.com/oriolmirosa/jupyterlab_materialdarker) - Material Darker theme
-- [Darcula](https://github.com/telamonian/theme-darcula) - Darcula theme with scrollbars, based on IntelliJ
-- [Atom Dark](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme) - Atom Dark theme
+## Themes
+- [Light](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-light-extension)
+  - Default light-colored theme
+- [Dark](https://github.com/jupyterlab/jupyterlab/tree/master/packages/theme-dark-extension)
+  - Default dark-colored theme
+- [Material Darker](https://github.com/oriolmirosa/jupyterlab_materialdarker) -
+  Material Darker theme
+- [Darcula](https://github.com/telamonian/theme-darcula) - Darcula theme with
+  scrollbars, based on IntelliJ
+- [Atom Dark](https://github.com/BurglarBenson/Jupyter-Atom-Dark-Theme) - Atom
+  Dark theme
 - [AixViPMaP](https://github.com/AixViPMaP/jlab-theme) - AixViPMaP theme
 - [Gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox theme
 
@@ -59,6 +75,7 @@ These extensions were incorporated into the JupyterLab distribution and no longe
 # Resources
 
 ## Websites
+
 - https://github.com/jupyterlab/jupyterlab - Source
 - https://jupyterlab.readthedocs.io/en/latest/ - Documentation
 - https://pypi.python.org/pypi/jupyterlab - PyPI
@@ -66,16 +83,18 @@ These extensions were incorporated into the JupyterLab distribution and no longe
 - https://github.com/topics/jupyterlab-extension
 
 ## Community
+
 - [/r/IPython](https://www.reddit.com/r/IPython/)
-- https://jupyter.org/community.html
+- [Jupyter Community](https://jupyter.org/community.html)
 
+## Other Awesome Lists
 
-# Other Awesome Lists
-- https://github.com/adebar/awesome-jupyter
-- https://github.com/quobit/awesome-python-in-education#jupyter
-- https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks
+- [Awesome Jupyter](https://github.com/adebar/awesome-jupyter)
+- [Awesome Jupyter in Education](https://github.com/quobit/awesome-python-in-education#jupyter)
+- [Jupyter Notebook Gallery](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)
 
+## 💜 Thanks!
 
-
-# 💜 Thanks!
-Thanks goes out to the community that creates all of these plugins, learning resources and designs. This github repo is supported by [y42](https://www.y42.com).
+Thanks goes out to the community that creates all of these plugins, learning
+resources and designs. This github repo is supported by
+[y42](https://www.y42.com).
